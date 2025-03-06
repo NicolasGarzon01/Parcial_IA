@@ -28,6 +28,6 @@ Se creó un modelo de simulación basado en mesa para estudiar la propagación d
 
 Las simulaciones muestran cómo estas medidas ayudan a reducir la cantidad de infectados y fallecidos.
 
-# Ejecuión
+# Ejecución
 El parcial fue desarrollado en un notebook de Google Colab, se implementaron los puntos 3 y 4 en el notebook, en donde solo es necesario conecatarse a la red para poder ejecutar la implementación de estos puntos, mientras que para la ejecución del punto 5 fue necesario instalar Jupyter y MESA.
 
